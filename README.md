@@ -19,6 +19,8 @@ One of the major key feature of this application is that it allows you to make f
 - Month
 - Day of the Week
 
+Users are given the option to display the top 5 most recent data
+
 ### Files used
 Files used for this project:
 
