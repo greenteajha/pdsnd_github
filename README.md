@@ -37,3 +37,7 @@ Credits to:
   * Providing the base structure of the bike share code and bike share data
 - **Stack Overflow**
   * Always being the helpful outlet to cross check error message or new Pandas and Numpy functions
+
+### Bug Fixes
+1. Bug Fix 07/04/2019
+  * Had an issue with displaying raw data where if the user does not choose the options **[Any Country]/[All]/[All]**, the user would get a KeyError error message. This was caused by the fact that the raw data was displayed based on dictionary keys that were incremental from the value 1 onwards. If the values were random or mixed, the dictionary key would not be found due to the for loop basing on a 1...2...3 incremental from 0, causing the KeyError error message.
