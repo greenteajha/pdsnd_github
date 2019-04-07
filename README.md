@@ -19,7 +19,7 @@ One of the major key feature of this application is that it allows you to make f
 - Month
 - Day of the Week
 
-Users are given the option to display the top 5 most recent data
+Users are given the option to display the top 5 most recent data. Upon displaying the 5 most recent data, user can subsequently request to display further 5 more data.
 
 ### Files used
 Files used for this project:
