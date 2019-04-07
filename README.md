@@ -1,15 +1,37 @@
 ### Date created
-Include the date you created this project and README file.
+This readme file was created on:
+
+* 7th April 2019 - Version 1.0
 
 ### Project Title
-Replace the Project Title
+Bike Sharing Data Analysis Application
 
 ### Description
-Describe what your project is about and what it does
+Bike Sharing Data Analysis application provides statistical data based on 3 separate country's data:
+
+1. Chicago
+2. New York City
+3. Washington
+
+One of the major key feature of this application is that it allows you to make filters by:
+
+- Country Name
+- Month
+- Day of the Week
 
 ### Files used
-Include the files used
+Files used for this project:
+
+- bikeshare.py *(Main python file containing functional code)*
+- chicago.read_csv *(Chicago bike share data in a CSV format)*
+- new_york_city.csv *(New York city bike share data in a CSV format)*
+- washington.csv *(Washington bike share data in a CSV format)*
+- README.md *(Informative text file containing information on the project)*
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to:
 
+- **Udacity**
+  * Providing the base structure of the bike share code and bike share data
+- **Stack Overflow**
+  * Always being the helpful outlet to cross check error message or new Pandas and Numpy functions
